@@ -44,6 +44,12 @@ section{
     color: white;
     font-weight: 900;
 }
+.link-button:hover{
+    width: 80px;
+    height: 70px;
+    box-shadow: 10px 10px 40px dimgray;
+    font-size: 20px;
+}
 .top-right{
     float: right;
     width: 40%;
