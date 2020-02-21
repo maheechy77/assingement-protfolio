@@ -112,6 +112,7 @@ section{
     background-image: url('./images/footer-bg.png');
     background-repeat: no-repeat;
     text-align: center;
+    padding-top: 100px;
 }
 .end-para{
     font-size: 900;
